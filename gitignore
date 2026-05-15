@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+__pycache__/
+
+# Secrets
+.env
+.env.local
+
+# Editor and OS noise
+.DS_Store
+.vscode/
+.idea/
+
+# Python build artifacts
+*.pyc
