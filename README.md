@@ -1,6 +1,6 @@
 # Weather Agent
 
-Built with the Anthropic SDK. Demonstrates tool use, error handling, and the agent loop, no frameworks.
+Built with the Anthropic SDK. Demonstrates tool use, error handling, and the agent loop.
 
 ## What it does
 
